@@ -1,6 +1,10 @@
 # Hangman
 Simple GUI Hangman Game
 
-## Launch
-Executables can be found in the `bin/Debug/netcoreapp3.1` folder
+## Installation
+Go to the releases page, and downloaded the zip file containing executables.
+Unzip the folder, and run setup.exe
+The game should launch afterwards along with the creation of a Desktop shortcut
+
+
 
